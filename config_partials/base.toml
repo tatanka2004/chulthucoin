@@ -26,7 +26,7 @@ hrefTargetBlank = true
 description = "Litecoin is a cryptocurrency that enables instant payments to anyone in the world and that can be efficiently mined with consumer-grade hardware."
 
   [params.downloadCommon]
-    releaseNotesURL = "http://blog.litecoin.org/2015/12/litecoin-core-v01040.html"
+    releaseNotesURL = "http://blog.litecoin.org/2017/01/litecoin-core-v0132_11.html"
     upgradeNotesURL = "https://litecoin.info/Upgrading_Litecoin"
 
   [params.footerCommon]
