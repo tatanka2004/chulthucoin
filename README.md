@@ -1,5 +1,7 @@
 # litecoin.org
 
+Official [litecoin.org](https://litecoin.org) website source code.
+
 ## Updating Download Urls
 
 data/software
