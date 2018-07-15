@@ -76,7 +76,6 @@
     mac = "Mac OS X 용"
     linux = "GNU/Linux 용"
     android = "Android 용 라이트코인"
-    blackberry = "BlackBerry 용 라이트코인"
     electrum = "Electrum 라이트코인"
 
 

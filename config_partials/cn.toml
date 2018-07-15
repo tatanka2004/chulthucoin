@@ -77,7 +77,6 @@ title = "莱特币 - 开源的P2P数字货币"
   mac = "供Mac OS X用户使用"
   linux = "供GNU/Linux用户使用"
   android = "莱特币安卓版"
-  blackberry = "莱特币黑莓版"
   electrum = "Electrum Litecoin"
 
 

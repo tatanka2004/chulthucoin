@@ -80,7 +80,6 @@
     mac = "için Mac OS X"
     linux = "için Linux"
     android = "Litecoin için Android"
-    blackberry = "Litecoin için Blackberry"
     electrum = "Electrum Litecoin"
 
 

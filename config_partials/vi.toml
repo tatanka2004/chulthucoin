@@ -76,7 +76,6 @@
     mac = "dành cho Mac OS X"
     linux = "dành cho Linux"
     android = "Litecoin cho Android"
-    blackberry = "Litecoin cho Blackberry"
     electrum = "Electrum Litecoin"
 
 

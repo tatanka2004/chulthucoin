@@ -76,7 +76,6 @@
     mac = "för Mac OS X"
     linux = "för Linux"
     android = "Litecoin för Android"
-    blackberry = "Litecoin för Blackberry"
     electrum = "Electrum Litecoin"
 
 

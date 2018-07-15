@@ -76,7 +76,6 @@
     mac = "για Mac OS X"
     linux = "για Linux"
     android = "Litecoin για Android"
-    blackberry = "Litecoin για Blackberry"
     electrum = "Electrum Litecoin"
 
 

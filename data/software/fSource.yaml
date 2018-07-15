@@ -1,11 +1,11 @@
 id: source
-version: Litecoin Core Github<br />Android Github
+version: Litecoin Core GitHub
 
 img: github-alt
 
 uri: https://github.com/litecoin-project/litecoin
 isCompiled: 0
 
-android: https://github.com/Litecoin-Java
+android: https://loafwallet.org
 
 gpgPublicKey: https://pgp.mit.edu/pks/lookup?op=get&search=0xFE3348877809386C

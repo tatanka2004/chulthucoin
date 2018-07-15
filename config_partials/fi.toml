@@ -76,7 +76,6 @@
     mac = "Mac OS X"
     linux = "Linux"
     android = "Litecoin for Android"
-    blackberry = "Litecoin for Blackberry"
     electrum = "Electrum Litecoin"
 
 

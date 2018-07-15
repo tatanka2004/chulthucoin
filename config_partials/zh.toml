@@ -76,7 +76,6 @@
     mac = "供Mac OS X使用"
     linux = "供GNU/Linux使用"
     android = "Litecoin版本的Android"
-    blackberry = "Litecoin版本的Blackberry"
     electrum = "Electrum Litecoin"
 
 
