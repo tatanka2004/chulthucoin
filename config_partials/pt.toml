@@ -1,4 +1,4 @@
-# Português _____________________________
+# PORTUGUESE _____________________________
   [Languages.pt]
     lang = "Português"
     LanguageCode = "pt"
@@ -9,6 +9,7 @@
   [Languages.pt.hero]
     # title = "The Cryptocurrency For Payments"
     # subtitle = "Based on Blockchain Technology"
+   otherversions = "Outras versões"
 
   # Navigation
   [Languages.pt.navigation]
@@ -19,11 +20,10 @@
     contact = "Contact"
 
     # postpended links
-    [[menu.postpend]]
+    [[Languages.pt.menu.postpend]]
       url = "https://litecointalk.io/"
       name = "Forum"
       weight = 10
-
 
   # About section
   [Languages.pt.about]
@@ -78,7 +78,6 @@
     android = "Litecoin para Android"
     electrum = "Electrum Litecoin"
 
-
   # Contact section
   [Languages.pt.contact]
     enable = true
@@ -88,4 +87,4 @@
   # Footer section
   [Languages.pt.footer]
     enable = true
-    copyright = 'Copyright &copy; 2011-2018 Litecoin Project. Todos os direitos reservados.'
+    copyright = 'Copyright &copy; 2011-2019 Litecoin Project. Todos os direitos reservados.'

@@ -1,4 +1,4 @@
-# ENGLISH _____________________________
+# JAPANESE _____________________________
   [Languages.ja]
     lang = "日本語"
     LanguageCode = "ja"
@@ -9,6 +9,7 @@
   [Languages.ja.hero]
     # title = "The Cryptocurrency For Payments"
     # subtitle = "Based on Blockchain Technology"
+   otherversions = "他のバージョン"
 
   # Navigation
   [Languages.ja.navigation]
@@ -19,11 +20,10 @@
     contact = "Contact"
 
     # postpended links
-    [[menu.postpend]]
+    [[Languages.ja.menu.postpend]]
       url = "https://litecointalk.io/"
       name = "Forum"
       weight = 10
-
 
   # About section
   [Languages.ja.about]
@@ -78,15 +78,13 @@
     android = "Litecoin - Android用"
     electrum = "Electrum Litecoin"
 
-
   # Contact section
   [Languages.ja.contact]
     enable = true
     # title = "Contact us"
     subtitle  = 'Litecoin開発チームへのお問い合わせは<a href="mailto:contact@litecoin.org">contact@litecoin.org</a>まで。'
 
-
   # Footer section
   [Languages.ja.footer]
     enable = true
-    copyright = 'Copyright &copy; 2011-2018 Litecoinプロジェクト. All rights reserved.'
+    copyright = 'Copyright &copy; 2011-2019 Litecoinプロジェクト. All rights reserved.'

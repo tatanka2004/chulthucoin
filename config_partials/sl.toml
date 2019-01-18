@@ -1,4 +1,4 @@
-# ENGLISH _____________________________
+# SLOVENE _____________________________
   [Languages.sl]
     lang = "Slovene"
     LanguageCode = "sl"
@@ -9,6 +9,7 @@
   [Languages.sl.hero]
     # title = "The Cryptocurrency For Payments"
     # subtitle = "Based on Blockchain Technology"
+   otherversions = "Druge različice"
 
   # Navigation
   [Languages.sl.navigation]
@@ -19,11 +20,10 @@
     contact = "Contact"
 
     # postpended links
-    [[menu.postpend]]
+    [[Languages.sl.menu.postpend]]
       url = "https://litecointalk.io/"
       name = "Forum"
       weight = 10
-
 
   # About section
   [Languages.sl.about]
@@ -78,15 +78,13 @@
     android = "Litecoin za Android"
     electrum = "Electrum Litecoin"
 
-
   # Contact section
   [Languages.sl.contact]
     enable = true
     # title = "Contact us"
     subtitle  = 'Razvijalce Litecoin projekta lahko kontaktiraš na <a href="mailto:contact@litecoin.org">contact@litecoin.org</a>'
 
-
   # Footer section
   [Languages.sl.footer]
     enable = true
-    copyright = '	Avtorske pravice &copy; 2011-2018 Litecoin Project. Vse pravice pridržane.'
+    copyright = 'Avtorske pravice &copy; 2011-2019 Litecoin Project. Vse pravice pridržane.'

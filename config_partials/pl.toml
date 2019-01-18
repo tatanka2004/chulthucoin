@@ -1,4 +1,4 @@
-# ENGLISH _____________________________
+# POLISH _____________________________
   [Languages.pl]
     lang = "Polski"
     LanguageCode = "pl"
@@ -9,6 +9,7 @@
   [Languages.pl.hero]
     # title = "The Cryptocurrency For Payments"
     # subtitle = "Based on Blockchain Technology"
+   otherversions = "Inne wersje"
 
   # Navigation
   [Languages.pl.navigation]
@@ -19,11 +20,10 @@
     contact = "Contact"
 
     # postpended links
-    [[menu.postpend]]
+    [[Languages.pl.menu.postpend]]
       url = "https://litecointalk.io/"
       name = "Forum"
       weight = 10
-
 
   # About section
   [Languages.pl.about]
@@ -78,7 +78,6 @@
     android = "Litecoin dla Android"
     electrum = "Electrum Litecoin"
 
-
   # Contact section
   [Languages.pl.contact]
     enable = true
@@ -88,4 +87,4 @@
   # Footer section
   [Languages.pl.footer]
     enable = true
-    copyright = 'Prawa autorskie &copy; 2011-2018 Litecoin Project. Wszelkie prawa zastrzeżone.'
+    copyright = 'Prawa autorskie &copy; 2011-2019 Litecoin Project. Wszelkie prawa zastrzeżone.'

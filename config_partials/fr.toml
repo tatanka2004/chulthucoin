@@ -7,29 +7,23 @@
 
 # Hero section
 [Languages.fr.hero]
-  # title = "The Cryptocurrency For Payments"
-  # subtitle = "Based on Blockchain Technology"
+  title = "La cryptomonnaie pour les paiements"
+  subtitle = "basée sur la technologie Blockchain"
+  otherversions = "Autres versions"
 
 # Navigation
 [Languages.fr.navigation]
   brand = "litecoin"
   download = "TÉLÉCHARGER"
-  about = "About"
-  team = "Team"
+  about = "À propos"
+  team = "Équipe"
   contact = "Contact"
 
-  # prepended links
-  #[[menu.prepend]]
-  #  url = "http://gohugo.io"
-  #  name = "Hugo"
-  #  weight = 10
-
   # postpended links
-  [[menu.postpend]]
+  [[Languages.fr.menu.postpend]]
     url = "https://litecointalk.io/"
     name = "Forum"
     weight = 10
-
 
 # About section
 [Languages.fr.about]
@@ -84,15 +78,13 @@
   android = "Litecoin sur Android"
   electrum = "Electrum Litecoin"
 
-
 # Contact section
 [Languages.fr.contact]
   enable = true
-  # title = "Contact us"
-  subtitle  = "Vous pouvez contacter l'équipe de développement de Litecoin à <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>."
-
+  title = "Contactez-nous"
+  subtitle  = "Vous pouvez contacter l'équipe de développement de Litecoin à cette adresse email : <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>"
 
 # Footer section
 [Languages.fr.footer]
   enable = true
-  copyright = "Copyright &copy; 2011-2018 Litecoin Project. <br />Tous droits réservés."
+  copyright = "Copyright &copy; 2011-2019 Litecoin Project. <br />Tous droits réservés."

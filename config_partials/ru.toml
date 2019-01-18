@@ -9,6 +9,7 @@
   [Languages.ru.hero]
     # title = "The Cryptocurrency For Payments"
     # subtitle = "Based on Blockchain Technology"
+   otherversions = "Другие версии"
 
   # Navigation
   [Languages.ru.navigation]
@@ -19,11 +20,10 @@
     contact = "Contact"
 
     # postpended links
-    [[menu.postpend]]
+    [[Languages.ru.menu.postpend]]
       url = "https://litecointalk.io/"
       name = "Forum"
       weight = 10
-
 
   # About section
   [Languages.ru.about]
@@ -78,7 +78,6 @@
     android = "Litecoin для Android"
     electrum = "Electrum Litecoin"
 
-
   # Contact section
   [Languages.ru.contact]
     enable = true
@@ -88,4 +87,4 @@
   # Footer section
   [Languages.ru.footer]
     enable = true
-    copyright = 'Все права защищены &copy; 2011-2018 Проект Litecoin'
+    copyright = 'Все права защищены &copy; 2011-2019 Проект Litecoin'

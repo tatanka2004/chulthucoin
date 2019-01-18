@@ -1,4 +1,4 @@
-# ENGLISH _____________________________
+# TRADITIONAL CHINESE _____________________________
   [Languages.zh]
     lang = "繁體中文"
     LanguageCode = "zh-tw"
@@ -9,6 +9,7 @@
   [Languages.zh.hero]
     # title = "The Cryptocurrency For Payments"
     # subtitle = "Based on Blockchain Technology"
+   otherversions = "其他版本"
 
   # Navigation
   [Languages.zh.navigation]
@@ -19,11 +20,10 @@
     contact = "Contact"
 
     # postpended links
-    [[menu.postpend]]
+    [[Languages.zh.menu.postpend]]
       url = "https://litecointalk.io/"
       name = "Forum"
       weight = 10
-
 
   # About section
   [Languages.zh.about]
@@ -78,7 +78,6 @@
     android = "Litecoin版本的Android"
     electrum = "Electrum Litecoin"
 
-
   # Contact section
   [Languages.zh.contact]
     enable = true
@@ -88,4 +87,4 @@
   # Footer section
   [Languages.zh.footer]
     enable = true
-    copyright = '&copy; 2011-2018 Litecoin Project 版權所有，保留所有權利。'
+    copyright = 'Copyright &copy; 2011-2019 Litecoin Project 版權所有，保留所有權利。'

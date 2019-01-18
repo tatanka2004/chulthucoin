@@ -1,4 +1,4 @@
-# Norsk _____________________________
+# NORWEGIAN _____________________________
   [Languages.no]
     lang = "Norsk"
     LanguageCode = "no"
@@ -9,6 +9,7 @@
   [Languages.no.hero]
     # title = "The Cryptocurrency For Payments"
     # subtitle = "Based on Blockchain Technology"
+   otherversions = "Andre versjoner"
 
   # Navigation
   [Languages.no.navigation]
@@ -19,11 +20,10 @@
     contact = "Contact"
 
     # postpended links
-    [[menu.postpend]]
+    [[Languages.no.menu.postpend]]
       url = "https://litecointalk.io/"
       name = "Forum"
       weight = 10
-
 
   # About section
   [Languages.no.about]
@@ -78,7 +78,6 @@
     android = "Litecoin for Android"
     electrum = "Electrum Litecoin"
 
-
   # Contact section
   [Languages.no.contact]
     enable = true
@@ -88,4 +87,4 @@
   # Footer section
   [Languages.no.footer]
     enable = true
-    copyright = 'Opphavsrett &copy; 2011-2018 Litecoin Prosjekt. Alle rettigheter reservert.'
+    copyright = 'Opphavsrett &copy; 2011-2019 Litecoin Prosjekt. Alle rettigheter reservert.'

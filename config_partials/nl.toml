@@ -1,4 +1,4 @@
-# Nederlands _____________________________
+# NEDERLANDS _____________________________
   [Languages.nl]
     lang = "Nederlands"
     LanguageCode = "nl"
@@ -9,6 +9,7 @@
   [Languages.nl.hero]
     # title = "The Cryptocurrency For Payments"
     # subtitle = "Based on Blockchain Technology"
+   otherversions = "Andere versies"
 
   # Navigation
   [Languages.nl.navigation]
@@ -19,11 +20,10 @@
     contact = "Contact"
 
     # postpended links
-    [[menu.postpend]]
+    [[Languages.nl.menu.postpend]]
       url = "https://litecointalk.io/"
       name = "Forum"
       weight = 10
-
 
   # About section
   [Languages.nl.about]
@@ -78,7 +78,6 @@
     android = "Litecoin voor Android"
     electrum = "Electrum Litecoin"
 
-
   # Contact section
   [Languages.nl.contact]
     enable = true
@@ -88,4 +87,4 @@
   # Footer section
   [Languages.nl.footer]
     enable = true
-    copyright = 'Copyright &copy; 2011-2018 Litecoin Project. Alle rechten voorbehouden.'
+    copyright = 'Copyright &copy; 2011-2019 Litecoin Project. Alle rechten voorbehouden.'

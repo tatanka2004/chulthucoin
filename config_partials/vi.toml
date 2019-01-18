@@ -1,4 +1,4 @@
-# ENGLISH _____________________________
+# VIETNAM _____________________________
   [Languages.vi]
     lang = "Việt"
     LanguageCode = "vi"
@@ -9,6 +9,7 @@
   [Languages.vi.hero]
     # title = "The Cryptocurrency For Payments"
     # subtitle = "Based on Blockchain Technology"
+   otherversions = "Các phiên bản khác"
 
   # Navigation
   [Languages.vi.navigation]
@@ -19,11 +20,10 @@
     contact = "Contact"
 
     # postpended links
-    [[menu.postpend]]
+    [[Languages.vi.menu.postpend]]
       url = "https://litecointalk.io/"
       name = "Forum"
       weight = 10
-
 
   # About section
   [Languages.vi.about]
@@ -78,7 +78,6 @@
     android = "Litecoin cho Android"
     electrum = "Electrum Litecoin"
 
-
   # Contact section
   [Languages.vi.contact]
     enable = true
@@ -88,4 +87,4 @@
   # Footer section
   [Languages.vi.footer]
     enable = true
-    copyright = 'Copyright &copy; 2011-2018 Litecoin Project. All rights reserved.'
+    copyright = 'Copyright &copy; 2011-2019 Litecoin Project. All rights reserved.'

@@ -1,4 +1,4 @@
-# ENGLISH _____________________________
+# ESTONIA _____________________________
   [Languages.et]
     lang = "Eesti"
     LanguageCode = "et"
@@ -9,6 +9,7 @@
   [Languages.et.hero]
     # title = "The Cryptocurrency For Payments"
     # subtitle = "Based on Blockchain Technology"
+   otherversions = "Muud versioonid"
 
   # Navigation
   [Languages.et.navigation]
@@ -19,11 +20,10 @@
     contact = "Contact"
 
     # postpended links
-    [[menu.postpend]]
+    [[Languages.et.menu.postpend]]
       url = "https://litecointalk.io/"
       name = "Forum"
       weight = 10
-
 
   # About section
   [Languages.et.about]
@@ -78,7 +78,6 @@
     android = "Litecoin Android'ile"
     electrum = "Electrum Litecoin"
 
-
   # Contact section
   [Languages.et.contact]
     enable = true
@@ -88,4 +87,4 @@
   # Footer section
   [Languages.et.footer]
     enable = true
-    copyright = "Copyright &copy; 2011-2018 Litecoin Project. All rights reserved."
+    copyright = "Copyright &copy; 2011-2019 Litecoin Project. All rights reserved."

@@ -9,6 +9,7 @@
   [Languages.cs.hero]
     # title = "The Cryptocurrency For Payments"
     # subtitle = "Based on Blockchain Technology"
+   otherversions = "Jiné verze"
 
   # Navigation
   [Languages.cs.navigation]
@@ -19,11 +20,10 @@
     contact = "Contact"
 
     # postpended links
-    [[menu.postpend]]
+    [[Languages.cs.menu.postpend]]
       url = "https://litecointalk.io/"
       name = "Forum"
       weight = 10
-
 
   # About section
   [Languages.cs.about]
@@ -78,15 +78,13 @@
     android = "Litecoin pro Android"
     electrum = "Electrum Litecoin"
 
-
   # Contact section
   [Languages.cs.contact]
     enable = true
     # title = "Contact us"
     subtitle  = "Můžeš kontaktovat vývojářský tým projektu Litecoin na <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>"
 
-
   # Footer section
   [Languages.cs.footer]
     enable = true
-    copyright = "Copyright &copy; 2011-2018 Litecoin Project. Všechna práva vyhrazena."
+    copyright = "Copyright &copy; 2011-2019 Litecoin Project. Všechna práva vyhrazena."

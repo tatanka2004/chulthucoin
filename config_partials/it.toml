@@ -1,4 +1,4 @@
-# ENGLISH _____________________________
+# ITALIAN _____________________________
   [Languages.it]
     lang = "Italiano"
     LanguageCode = "it"
@@ -7,23 +7,23 @@
 
   # Hero section
   [Languages.it.hero]
-    # title = "The Cryptocurrency For Payments"
-    # subtitle = "Based on Blockchain Technology"
+    title = "Valuta digitale per pagamenti"
+    subtitle = "basati sulla tecnologia Blockchain"
+    otherversions = "Altre versioni"
 
   # Navigation
   [Languages.it.navigation]
     brand = "litecoin"
     download = "SCARICARE"
     about = "About"
-    team = "Team"
+    team = "Squadra"
     contact = "Contact"
 
     # postpended links
-    [[menu.postpend]]
+    [[Languages.it.menu.postpend]]
       url = "https://litecointalk.io/"
       name = "Forum"
       weight = 10
-
 
   # About section
   [Languages.it.about]
@@ -78,14 +78,13 @@
     android = "Litecoin per Android"
     electrum = "Electrum Litecoin"
 
-
   # Contact section
   [Languages.it.contact]
     enable = true
-    # title = "Contact us"
+    title = "Contattaci"
     subtitle  = "Potete contattare il team degli sviluppatori di Litecoin all'indirizzo di posta elettronica <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>."
 
   # Footer section
   [Languages.it.footer]
     enable = true
-    copyright = "Copyright &copy; 2011-2018 Litecoin Project. Tutti i Diritti Riservati."
+    copyright = "Copyright &copy; 2011-2019 Litecoin Project. Tutti i Diritti Riservati."

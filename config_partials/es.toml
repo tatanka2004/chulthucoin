@@ -9,6 +9,7 @@
   [Languages.es.hero]
     # title = "The Cryptocurrency For Payments"
     # subtitle = "Basada en la Tecnología Blockchain"
+    otherversions = "Otras versiones"
 
   # Navigation
   [Languages.es.navigation]
@@ -19,11 +20,10 @@
     contact = "Contactar"
 
     # postpended links
-    [[menu.postpend]]
+    [[Languages.es.menu.postpend]]
       url = "https://litecointalk.io/"
       name = "Foro"
       weight = 10
-
 
   # About section
   [Languages.es.about]
@@ -78,7 +78,6 @@
     android = "Litecoin para Android"
     electrum = "Electrum Litecoin"
 
-
   # Contact section
   [Languages.es.contact]
     enable = true
@@ -88,4 +87,4 @@
   # Footer section
   [Languages.es.footer]
     enable = true
-    copyright = "Copyright &copy; 2011-2018 Litecoin Project. Todos los derechos reservados."
+    copyright = "Copyright &copy; 2011-2019 Litecoin Project. Todos los derechos reservados."

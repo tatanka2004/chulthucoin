@@ -1,4 +1,4 @@
-# ENGLISH _____________________________
+# FINNISH _____________________________
   [Languages.fi]
     lang = "Suomi"
     LanguageCode = "fi"
@@ -9,6 +9,7 @@
   [Languages.fi.hero]
     # title = "The Cryptocurrency For Payments"
     # subtitle = "Based on Blockchain Technology"
+   otherversions = "Muut versiot"
 
   # Navigation
   [Languages.fi.navigation]
@@ -19,11 +20,10 @@
     contact = "Contact"
 
     # postpended links
-    [[menu.postpend]]
+    [[Languages.fi.menu.postpend]]
       url = "https://litecointalk.io/"
       name = "Forum"
       weight = 10
-
 
   # About section
   [Languages.fi.about]
@@ -78,15 +78,13 @@
     android = "Litecoin for Android"
     electrum = "Electrum Litecoin"
 
-
   # Contact section
   [Languages.fi.contact]
     enable = true
     # title = "Contact us"
     subtitle  = "You can contact Litecoin project development team at <a href='mailto:contact@litecoin.org'>contact@litecoin.org</a>"
 
-
   # Footer section
   [Languages.fi.footer]
     enable = true
-    copyright = "Copyright &copy; 2011-2018 Litecoin Project. All rights reserved."
+    copyright = "Copyright &copy; 2011-2019 Litecoin Project. All rights reserved."

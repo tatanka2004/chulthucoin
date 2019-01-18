@@ -1,4 +1,4 @@
-# ENGLISH _____________________________
+# TURKISH _____________________________
   [Languages.tr]
     lang = "Türkçe"
     LanguageCode = "tr"
@@ -9,6 +9,7 @@
   [Languages.tr.hero]
     # title = "The Cryptocurrency For Payments"
     # subtitle = "Based on Blockchain Technology"
+   otherversions = "Diğer sürümleri"
 
   # Navigation
   [Languages.tr.navigation]
@@ -19,11 +20,10 @@
     contact = "Contact"
 
     # postpended links
-    [[menu.postpend]]
+    [[Languages.tr.menu.postpend]]
       url = "https://litecointalk.io/"
       name = "Forum"
       weight = 10
-
 
   # About section
   [Languages.tr.about]
@@ -37,14 +37,10 @@
         title = "Topluluk"
         description =  '<p class="text-no-margin text-left text-muted">Sayısı her geçen gün artan Litecoin topluluklarından destek alabilirsiniz: </p><ul class="text-muted text-left "> <li><a href="https://litecointalk.org">Litecoin Forum</a></li> <li><a href="http://www.reddit.com/r/litecoin">Reddit Litecoin</a></li> <li><a href="https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd">Twitter&#39;da ara</a></li> <li><a href="http://freenode.net/" rel="nofollow">IRC FreeNode</a> IRC kanalları <a href="http://webchat.freenode.net/?channels=litecoin" rel="nofollow">#litecoin</a> (normal kullanıcılar için), <a href="http://webchat.freenode.net/?channels=litecoin-dev" rel="nofollow">#litecoin-dev</a> (geliştiriciler için).</li> </ul>'
 
-
-
       [[Languages.tr.about.row.list]]
         icon = "fa-laptop"
         title = "Kaynaklar"
         description = 'Genel bilgilere, Litecoin&#39;i destekleyen servis ve borsaların listesine <a href="http://litecoin.info">Litecoin Wiki</a>&#39;den ulaşabilirsiniz. <br> Güncel ağ istatistikleri <a href="http://ltc.block-explorer.com/charts">burada</a> yer almaktadır. Litecoin COre ve ilgili projelerin kaynak kodu <a href="https://github.com/litecoin-project">GitHub</a>&#39;da mevcuttur.'
-
-
 
       [[Languages.tr.about.row.list]]
         icon = "fa-heart"
@@ -82,7 +78,6 @@
     android = "Litecoin için Android"
     electrum = "Electrum Litecoin"
 
-
   # Contact section
   [Languages.tr.contact]
     enable = true
@@ -92,4 +87,4 @@
   # Footer section
   [Languages.tr.footer]
     enable = true
-    copyright = 'Copyright &copy; 2011-2018 Litecoin Project. Tüm hakları saklıdır.'
+    copyright = 'Copyright &copy; 2011-2019 Litecoin Project. Tüm hakları saklıdır.'

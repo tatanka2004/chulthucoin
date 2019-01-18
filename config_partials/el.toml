@@ -9,6 +9,7 @@
   [Languages.el.hero]
     # title = "The Cryptocurrency For Payments"
     # subtitle = "Based on Blockchain Technology"
+    otherversions = "Άλλες εκδόσεις"
 
   # Navigation
   [Languages.el.navigation]
@@ -19,11 +20,10 @@
     contact = "Contact"
 
     # postpended links
-    [[menu.postpend]]
+    [[Languages.el.menu.postpend]]
       url = "https://litecointalk.io/"
       name = "Forum"
       weight = 10
-
 
   # About section
   [Languages.el.about]
@@ -78,15 +78,13 @@
     android = "Litecoin για Android"
     electrum = "Electrum Litecoin"
 
-
   # Contact section
   [Languages.el.contact]
     enable = true
     # title = "Contact us"
     subtitle  = "Μπορείτε να επικοινωνήσετε με την ομάδα ανάπτυξης του Litecoin στο <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>."
 
-
   # Footer section
   [Languages.el.footer]
     enable = true
-    copyright = "Πνευματική Ιδιοκτησία &copy; 2011-2018 Litecoin Project. Mε την επιφύλαξη παντός δικαιώματος."
+    copyright = "Πνευματική Ιδιοκτησία &copy; 2011-2019 Litecoin Project. Mε την επιφύλαξη παντός δικαιώματος."
