@@ -23,6 +23,11 @@
     url = "https://litecointalk.io/"
     name = "论坛"
     weight = 10
+    
+  [[Languages.cn.menu.postpend]]
+    url = "https://litecoin-foundation.org"
+    name = "基金会"
+    weight = 10
 
 # About section
 [Languages.cn.about]

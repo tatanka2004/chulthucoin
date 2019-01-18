@@ -25,6 +25,11 @@
       name = "Forum"
       weight = 10
 
+    [[Languages.et.menu.postpend]]
+      url = "https://litecoin-foundation.org"
+      name = "Foundation"
+      weight = 10
+
   # About section
   [Languages.et.about]
     enable = true

@@ -24,6 +24,11 @@
       url = "https://litecointalk.io/"
       name = "Forum"
       weight = 10
+    
+    [[Languages.cs.menu.postpend]]
+      url = "https://litecoin-foundation.org"
+      name = "Foundation"
+      weight = 10
 
   # About section
   [Languages.cs.about]
