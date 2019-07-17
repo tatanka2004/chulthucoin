@@ -40,7 +40,7 @@
       [[Languages.sl.about.row.list]]
         icon = "fa-group"
         title = "Skupnost"
-        description =  '<p class="text-no-margin text-left text-muted">Poišči podporo med naraščajočimi Litecoin skupnostmi: </p><ul class="text-muted text-left "> <li><a href="https://litecointalk.org">Litecoin Forumi</a></li> <li><a href="http://www.reddit.com/r/litecoin">Reddit Litecoin</a></li> <li><a href="https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd">Poišči uporabnike na Twitterju</a></li> <li><a href="http://freenode.net/" rel="nofollow">Kanali omrežja IRC FreeNode</a> <a href="http://webchat.freenode.net/?channels=litecoin" rel="nofollow">#litecoin</a> (za splošne uporanike) and <a href="http://webchat.freenode.net/?channels=litecoin-dev" rel="nofollow">#litecoin-dev</a> (za razvijalce).</li> </ul>'
+        description =  '<p class="text-no-margin text-left text-muted">Poišči podporo med naraščajočimi Litecoin skupnostmi: </p><ul class="text-muted text-left "> <li><a href="https://litecointalk.io">Litecoin Forumi</a></li> <li><a href="http://www.reddit.com/r/litecoin">Reddit Litecoin</a></li> <li><a href="https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd">Poišči uporabnike na Twitterju</a></li> <li><a href="http://freenode.net/" rel="nofollow">Kanali omrežja IRC FreeNode</a> <a href="http://webchat.freenode.net/?channels=litecoin" rel="nofollow">#litecoin</a> (za splošne uporanike) and <a href="http://webchat.freenode.net/?channels=litecoin-dev" rel="nofollow">#litecoin-dev</a> (za razvijalce).</li> </ul>'
 
       [[Languages.sl.about.row.list]]
         icon = "fa-laptop"

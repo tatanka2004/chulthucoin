@@ -40,7 +40,7 @@
       [[Languages.el.about.row.list]]
         icon = "fa-group"
         title = "Κοινότητα"
-        description =  '<p class="text-no-margin text-left text-muted">Βρείτε υποστήριξη σε έναν συνεχώς αυξανόμενο αριθμό κοινοτήτων για το Litecoin: </p><ul class="text-muted text-left "> <li><a href="https://litecointalk.org">Επίσημο Litecoin Φόρουμ</a></li> <li><a href="http://www.reddit.com/r/litecoin">Litecoin στο Reddit</a></li> <li><a href="https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd">Αναζήτηση για χρήστες στο Twitter</a></li> <li><a href="http://freenode.net/" rel="nofollow">IRC FreeNode</a> δικτυακά κανάλια <a href="http://webchat.freenode.net/?channels=litecoin" rel="nofollow">#litecoin</a> (για απλούς χρήστες) και <a href="http://webchat.freenode.net/?channels=litecoin-dev" rel="nofollow">#litecoin-dev</a> (για developers).</li> </ul>'
+        description =  '<p class="text-no-margin text-left text-muted">Βρείτε υποστήριξη σε έναν συνεχώς αυξανόμενο αριθμό κοινοτήτων για το Litecoin: </p><ul class="text-muted text-left "> <li><a href="https://litecointalk.io">Επίσημο Litecoin Φόρουμ</a></li> <li><a href="http://www.reddit.com/r/litecoin">Litecoin στο Reddit</a></li> <li><a href="https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd">Αναζήτηση για χρήστες στο Twitter</a></li> <li><a href="http://freenode.net/" rel="nofollow">IRC FreeNode</a> δικτυακά κανάλια <a href="http://webchat.freenode.net/?channels=litecoin" rel="nofollow">#litecoin</a> (για απλούς χρήστες) και <a href="http://webchat.freenode.net/?channels=litecoin-dev" rel="nofollow">#litecoin-dev</a> (για developers).</li> </ul>'
 
       [[Languages.el.about.row.list]]
         icon = "fa-laptop"

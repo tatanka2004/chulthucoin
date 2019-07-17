@@ -40,12 +40,12 @@
       [[Languages.ja.about.row.list]]
         icon = "fa-group"
         title = "コミュニティ"
-        description =  '<p class="text-no-margin text-left text-muted">随時拡大中のコミュニティーからサポートを受ける事ができます </p><ul class="text-muted text-left "> <li><a href="https://litecointalk.org">Litecoinフォーラム</a></li> <li><a href="http://www.reddit.com/r/litecoin">Litecoin Redditコミュニティ</a></li> <li><a href="https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd">Twitterでユーザーを検索</a></li> <li><a href="http://freenode.net/" rel="nofollow">IRCのFreeNode</a>ネットワークチャンネル <a href="http://webchat.freenode.net/?channels=litecoin" rel="nofollow">#litecoin</a> （一般ユーザー向け）・ <a href="http://webchat.freenode.net/?channels=litecoin-dev" rel="nofollow">#litecoin-dev</a>（開発者向け）</li> </ul>'
+        description =  '<p class="text-no-margin text-left text-muted">随時拡大中のコミュニティーからサポートを受ける事ができます </p><ul class="text-muted text-left "> <li><a href="https://litecointalk.io">Litecoinフォーラム</a></li> <li><a href="http://www.reddit.com/r/litecoin">Litecoin Redditコミュニティ</a></li> <li><a href="https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd">Twitterでユーザーを検索</a></li> <li><a href="http://freenode.net/" rel="nofollow">IRCのFreeNode</a>ネットワークチャンネル <a href="http://webchat.freenode.net/?channels=litecoin" rel="nofollow">#litecoin</a> （一般ユーザー向け）・ <a href="http://webchat.freenode.net/?channels=litecoin-dev" rel="nofollow">#litecoin-dev</a>（開発者向け）</li> </ul>'
 
       [[Languages.ja.about.row.list]]
         icon = "fa-laptop"
         title = "リソース"
-        description = 'Litecoinの一般情報、Litecoinをサポートしているサービスと取引所の一覧は、<a href="http://litecoin.info">Litecoin Wiki</a>で見つけることができます。 <br> 最新のネットワーク統計は、<a href="http://ltc.block-explorer.com/charts">Litecoinブロックエクスプローラーチャート</a>で見ることができます。 <br> <a href="https://github.com/litecoin-project">GitHub</a>で、Litecoin-Qtと関連プロジェクトのソースコードを見ることができます。'
+        description = 'Litecoinの一般情報、Litecoinをサポートしているサービスと取引所の一覧は、<a href="http://litecoin.info">Litecoin Wiki</a>で見つけることができます。 <br> 最新のネットワーク統計は、<a href="https://bitinfocharts.com/litecoin">Litecoinブロックエクスプローラーチャート</a>で見ることができます。 <br> <a href="https://github.com/litecoin-project">GitHub</a>で、Litecoin-Qtと関連プロジェクトのソースコードを見ることができます。'
 
       [[Languages.ja.about.row.list]]
         icon = "fa-heart"

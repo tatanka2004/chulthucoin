@@ -40,7 +40,7 @@
       [[Languages.nl.about.row.list]]
         icon = "fa-group"
         title = "Gemeenschap"
-        description =  '<p class="text-no-margin text-left text-muted">Vind ondersteuning binnen een groeiend aantal Litecoin communty’s </p><ul class="text-muted text-left "> <li><a href="https://litecointalk.org/">Litecoin Forums</a></li> <li><a href="http://www.reddit.com/r/litecoin">Reddit Litecoin</a></li> <li><a href="https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd">Zoek naar gebruikers op Twitter</a><a></a></li> <li><a href="http://freenode.net/" rel="nofollow">IRC FreeNode network channels</a> <a href="http://webchat.freenode.net/?channels=litecoin" rel="nofollow">#litecoin</a> (voor algemene gebruikers) and <a href="http://webchat.freenode.net/?channels=litecoin-dev" rel="nofollow">#litecoin-dev</a> (voor ontwikkelaars).</li> </ul>'
+        description =  '<p class="text-no-margin text-left text-muted">Vind ondersteuning binnen een groeiend aantal Litecoin communty’s </p><ul class="text-muted text-left "> <li><a href="https://litecointalk.io/">Litecoin Forums</a></li> <li><a href="http://www.reddit.com/r/litecoin">Reddit Litecoin</a></li> <li><a href="https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd">Zoek naar gebruikers op Twitter</a><a></a></li> <li><a href="http://freenode.net/" rel="nofollow">IRC FreeNode network channels</a> <a href="http://webchat.freenode.net/?channels=litecoin" rel="nofollow">#litecoin</a> (voor algemene gebruikers) and <a href="http://webchat.freenode.net/?channels=litecoin-dev" rel="nofollow">#litecoin-dev</a> (voor ontwikkelaars).</li> </ul>'
 
       [[Languages.nl.about.row.list]]
         icon = "fa-laptop"

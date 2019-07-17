@@ -45,7 +45,7 @@
     [[Languages.cn.about.row.list]]
       icon = "fa-laptop"
       title = "资源"
-      description = '查看<a href="http://litecoin.info">莱特币维基百科</a>，可以获取莱特币的相关信息，以及查看所有支持莱特币的网站列表以及交易市场。 <br> 查看<a href="http://ltc.block-explorer.com/charts">莱特币交易图表</a>，获取最新的网上交易数据。 <br> 访问<a href="https://github.com/litecoin-project">GitHub.com/litecoin-project</a>，获取莱特币的源代码及相关项目。'
+      description = '查看<a href="http://litecoin.info">莱特币维基百科</a>，可以获取莱特币的相关信息，以及查看所有支持莱特币的网站列表以及交易市场。 <br> 查看<a href="https://bitinfocharts.com/litecoin">莱特币交易图表</a>，获取最新的网上交易数据。 <br> 访问<a href="https://github.com/litecoin-project">GitHub.com/litecoin-project</a>，获取莱特币的源代码及相关项目。'
 
     [[Languages.cn.about.row.list]]
       icon = "fa-heart"

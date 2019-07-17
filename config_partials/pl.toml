@@ -40,7 +40,7 @@
       [[Languages.pl.about.row.list]]
         icon = "fa-group"
         title = "Społeczność"
-        description =  '<p class="text-no-margin text-left text-muted">Szukaj wsparcia w jednej z wielu społeczności Litecoina: </p><ul class="text-muted text-left "> <li><a href="https://litecointalk.org">Forum Litecoina</a></li> <li><a href="http://www.reddit.com/r/litecoin">Reddit Litecoin</a></li> <li><a href="https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd">Szukaj użytkowników na Twitterze</a></li> <li><a href="http://freenode.net/" rel="nofollow">IRC FreeNode</a>kanały <a href="http://webchat.freenode.net/?channels=litecoin" rel="nofollow">#litecoin</a>(ogólny) i <a href="http://webchat.freenode.net/?channels=litecoin-dev" rel="nofollow">#litecoin-dev</a> (dla developerów).</li> </ul>'
+        description =  '<p class="text-no-margin text-left text-muted">Szukaj wsparcia w jednej z wielu społeczności Litecoina: </p><ul class="text-muted text-left "> <li><a href="https://litecointalk.io">Forum Litecoina</a></li> <li><a href="http://www.reddit.com/r/litecoin">Reddit Litecoin</a></li> <li><a href="https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd">Szukaj użytkowników na Twitterze</a></li> <li><a href="http://freenode.net/" rel="nofollow">IRC FreeNode</a>kanały <a href="http://webchat.freenode.net/?channels=litecoin" rel="nofollow">#litecoin</a>(ogólny) i <a href="http://webchat.freenode.net/?channels=litecoin-dev" rel="nofollow">#litecoin-dev</a> (dla developerów).</li> </ul>'
 
       [[Languages.pl.about.row.list]]
         icon = "fa-laptop"
