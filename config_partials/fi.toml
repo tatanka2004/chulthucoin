@@ -40,7 +40,7 @@
       [[Languages.fi.about.row.list]]
         icon = "fa-group"
         title = "Yhteisö"
-        description =  '<p class="text-no-margin text-left text-muted">Tukea voi hakea aina kasvavista yhteisöistä: </p><ul class="text-muted text-left "> <li><a href="https://litecointalk.org">Litecoin Forums</a></li> <li><a href="http://www.reddit.com/r/litecoin">Reddit Litecoin</a></li> <li><a href="https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd">Etsi käyttäjiä Twitter:ssä</a></li> <li><a href="http://freenode.net/" rel="nofollow">IRC FreeNode</a> verkon kanavilla <a href="http://webchat.freenode.net/?channels=litecoin" rel="nofollow">#litecoin</a> (peruskäyttäjille) ja <a href="http://webchat.freenode.net/?channels=litecoin-dev" rel="nofollow">#litecoin-dev</a> (kehittäjille).</li> </ul>'
+        description =  '<p class="text-no-margin text-left text-muted">Tukea voi hakea aina kasvavista yhteisöistä: </p><ul class="text-muted text-left "> <li><a href="https://litecointalk.io">Litecoin Forums</a></li> <li><a href="http://www.reddit.com/r/litecoin">Reddit Litecoin</a></li> <li><a href="https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd">Etsi käyttäjiä Twitter:ssä</a></li> <li><a href="http://freenode.net/" rel="nofollow">IRC FreeNode</a> verkon kanavilla <a href="http://webchat.freenode.net/?channels=litecoin" rel="nofollow">#litecoin</a> (peruskäyttäjille) ja <a href="http://webchat.freenode.net/?channels=litecoin-dev" rel="nofollow">#litecoin-dev</a> (kehittäjille).</li> </ul>'
 
       [[Languages.fi.about.row.list]]
         icon = "fa-laptop"

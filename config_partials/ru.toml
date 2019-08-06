@@ -40,7 +40,7 @@
       [[Languages.ru.about.row.list]]
         icon = "fa-group"
         title = "Сообщество"
-        description =  '<p class="text-no-margin text-left text-muted">Следующие сообщества Litecoin, где вы можете найти ответы на любые вопросы: </p><ul class="text-muted text-left "> <li><a href="https://litecointalk.org">Форумы Litecoin</a></li> <li><a href="http://www.reddit.com/r/litecoin">Сообщество Litecoin Reddit</a></li> <li><a href="https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd">Поиск пользователей на Twitter</a></li> <li>Присоединяйтесь к сети <a href="http://freenode.net/" rel="nofollow">IRC FreeNode</a>, канал <a href="http://webchat.freenode.net/?channels=litecoin" rel="nofollow">#litecoin</a> (для общих пользователей) и <a href="http://webchat.freenode.net/?channels=litecoin-dev" rel="nofollow">#litecoin-dev</a> (для разработчиков).</li> </ul>'
+        description =  '<p class="text-no-margin text-left text-muted">Следующие сообщества Litecoin, где вы можете найти ответы на любые вопросы: </p><ul class="text-muted text-left "> <li><a href="https://litecointalk.io">Форумы Litecoin</a></li> <li><a href="http://www.reddit.com/r/litecoin">Сообщество Litecoin Reddit</a></li> <li><a href="https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd">Поиск пользователей на Twitter</a></li> <li>Присоединяйтесь к сети <a href="http://freenode.net/" rel="nofollow">IRC FreeNode</a>, канал <a href="http://webchat.freenode.net/?channels=litecoin" rel="nofollow">#litecoin</a> (для общих пользователей) и <a href="http://webchat.freenode.net/?channels=litecoin-dev" rel="nofollow">#litecoin-dev</a> (для разработчиков).</li> </ul>'
 
       [[Languages.ru.about.row.list]]
         icon = "fa-laptop"

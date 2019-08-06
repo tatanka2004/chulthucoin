@@ -40,12 +40,12 @@
       [[Languages.pt.about.row.list]]
         icon = "fa-group"
         title = "Comunidade"
-        description =  '<p class="text-no-margin text-left text-muted">Existe um número crescente de comunidades Litecoin onde você pode encontrar suporte. Você pode visitar: </p><ul class="text-muted text-left "> <li><a href="https://litecointalk.org">Fóruns Litecoin</a></li> <li><a href="http://www.reddit.com/r/litecoin">Comunidade Reddit de Litecoin</a></li> <li><a href="https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd">Procurar Usuários em Twitter</a></li> <li>Participar nos canais da <a href="http://freenode.net/" rel="nofollow">IRC FreeNode:</a> <a href="http://webchat.freenode.net/?channels=litecoin" rel="nofollow">#litecoin</a> (para usuários em geral) y <a href="http://webchat.freenode.net/?channels=litecoin-dev" rel="nofollow">#litecoin-dev</a> (para desenvolvedores).</li> </ul>'
+        description =  '<p class="text-no-margin text-left text-muted">Existe um número crescente de comunidades Litecoin onde você pode encontrar suporte. Você pode visitar: </p><ul class="text-muted text-left "> <li><a href="https://litecointalk.io">Fóruns Litecoin</a></li> <li><a href="http://www.reddit.com/r/litecoin">Comunidade Reddit de Litecoin</a></li> <li><a href="https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd">Procurar Usuários em Twitter</a></li> <li>Participar nos canais da <a href="http://freenode.net/" rel="nofollow">IRC FreeNode:</a> <a href="http://webchat.freenode.net/?channels=litecoin" rel="nofollow">#litecoin</a> (para usuários em geral) y <a href="http://webchat.freenode.net/?channels=litecoin-dev" rel="nofollow">#litecoin-dev</a> (para desenvolvedores).</li> </ul>'
 
       [[Languages.pt.about.row.list]]
         icon = "fa-laptop"
         title = "Recursos"
-        description = 'Você pode acessar as informações gerais, lista de sítios, e lista de câmbio, suportadas por Litecoin em: <a href="http://litecoin.info">Litecoin Wiki</a>. <br> As estatísticas atualizadas da rede podem ser encontradas em: <a href="http://ltc.block-explorer.com/charts">Gráficos de Explorador de Blocos Litecoin</a>. <br> Os códigos fonte Litecoin e outros projetos relacionados encontram-se disponíveis em: <a href="https://github.com/litecoin-project">GitHub.com/litecoin-project</a>.'
+        description = 'Você pode acessar as informações gerais, lista de sítios, e lista de câmbio, suportadas por Litecoin em: <a href="http://litecoin.info">Litecoin Wiki</a>. <br> As estatísticas atualizadas da rede podem ser encontradas em: <a href="https://bitinfocharts.com/litecoin">Gráficos de Explorador de Blocos Litecoin</a>. <br> Os códigos fonte Litecoin e outros projetos relacionados encontram-se disponíveis em: <a href="https://github.com/litecoin-project">GitHub.com/litecoin-project</a>.'
 
       [[Languages.pt.about.row.list]]
         icon = "fa-heart"

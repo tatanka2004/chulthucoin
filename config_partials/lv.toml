@@ -40,12 +40,12 @@
       [[Languages.lv.about.row.list]]
         icon = "fa-group"
         title = "Kopiena"
-        description =  '<p class="text-no-margin text-left text-muted">Atrodi atbalstu pie Litecoin kopienām kuru skaits palielinās: </p><ul class="text-muted text-left "> <li><a href="https://litecointalk.org">Litecoin Forums</a></li> <li><a href="http://www.reddit.com/r/litecoin">Reddit Litecoin</a></li> <li><a href="https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd">Meklēt lietotājus Twitterī</a></li> <li><a href="http://freenode.net/" rel="nofollow">IRC FreeNode</a> network channels <a href="http://webchat.freenode.net/?channels=litecoin" rel="nofollow">#litecoin</a> (lietotājiem) un <a href="http://webchat.freenode.net/?channels=litecoin-dev" rel="nofollow">#litecoin-dev</a> (izstrādātājiem).</li> </ul>'
+        description =  '<p class="text-no-margin text-left text-muted">Atrodi atbalstu pie Litecoin kopienām kuru skaits palielinās: </p><ul class="text-muted text-left "> <li><a href="https://litecointalk.io">Litecoin Forums</a></li> <li><a href="http://www.reddit.com/r/litecoin">Reddit Litecoin</a></li> <li><a href="https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd">Meklēt lietotājus Twitterī</a></li> <li><a href="http://freenode.net/" rel="nofollow">IRC FreeNode</a> network channels <a href="http://webchat.freenode.net/?channels=litecoin" rel="nofollow">#litecoin</a> (lietotājiem) un <a href="http://webchat.freenode.net/?channels=litecoin-dev" rel="nofollow">#litecoin-dev</a> (izstrādātājiem).</li> </ul>'
 
       [[Languages.lv.about.row.list]]
         icon = "fa-laptop"
         title = "Resursi"
-        description = 'Atrodi vispārīgu informāciju, kā arī sarakstu ar pakalpojumiem un apmaiņas punktiem kuri atbalsta Litecoin <a href="http://litecoin.info">Litecoin Wiki</a>. <br> Atjauninātu tīkla statistiku var atrast <a href="http://ltc.block-explorer.com/charts">Litecoin bloku pētnieku tabulās</a>. <br> Litecoin Core pirmkods un saistītie projekti ir pieejami <a href="https://github.com/litecoin-project">GitHub</a>.'
+        description = 'Atrodi vispārīgu informāciju, kā arī sarakstu ar pakalpojumiem un apmaiņas punktiem kuri atbalsta Litecoin <a href="http://litecoin.info">Litecoin Wiki</a>. <br> Atjauninātu tīkla statistiku var atrast <a href="https://bitinfocharts.com/litecoin">Litecoin bloku pētnieku tabulās</a>. <br> Litecoin Core pirmkods un saistītie projekti ir pieejami <a href="https://github.com/litecoin-project">GitHub</a>.'
 
       [[Languages.lv.about.row.list]]
         icon = "fa-heart"

@@ -40,12 +40,12 @@
       [[Languages.no.about.row.list]]
         icon = "fa-group"
         title = "Samfunn"
-        description =  '<p class="text-no-margin text-left text-muted">Finn støtte på tvers av et voksende antall Litecoin samfunn: </p><ul class="text-muted text-left "> <li><a href="https://litecointalk.org">Litecoin Forum</a></li> <li><a href="http://www.reddit.com/r/litecoin">Reddit Litecoin</a></li> <li><a href="https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd">Søk etter brukere på Twitter</a></li> <li><a href="http://freenode.net/" rel="nofollow">IRC FreeNode</a> nettverk kanaler <a href="http://webchat.freenode.net/?channels=litecoin" rel="nofollow">#litecoin</a> (for vanlige brukere) and <a href="http://webchat.freenode.net/?channels=litecoin-dev" rel="nofollow">#litecoin-dev</a> (for utviklere).</li> </ul>'
+        description =  '<p class="text-no-margin text-left text-muted">Finn støtte på tvers av et voksende antall Litecoin samfunn: </p><ul class="text-muted text-left "> <li><a href="https://litecointalk.io">Litecoin Forum</a></li> <li><a href="http://www.reddit.com/r/litecoin">Reddit Litecoin</a></li> <li><a href="https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd">Søk etter brukere på Twitter</a></li> <li><a href="http://freenode.net/" rel="nofollow">IRC FreeNode</a> nettverk kanaler <a href="http://webchat.freenode.net/?channels=litecoin" rel="nofollow">#litecoin</a> (for vanlige brukere) and <a href="http://webchat.freenode.net/?channels=litecoin-dev" rel="nofollow">#litecoin-dev</a> (for utviklere).</li> </ul>'
 
       [[Languages.no.about.row.list]]
         icon = "fa-laptop"
         title = "Ressurser"
-        description = 'Finn generell informasjon og en liste av tjenester og børser som støtter Litecoin på <a href="http://litecoin.info">Litecoin Wiki</a>. <br> Oppdatert nettverksstatistikk finner du på <a href="http://ltc.block-explorer.com/charts">Litecoin Blokkutforsker Diagrammer</a>. <br> Kildekode for Litecoin Core og relaterte prosjekter er tilgjenglige på <a href="https://github.com/litecoin-project">GitHub</a>.'
+        description = 'Finn generell informasjon og en liste av tjenester og børser som støtter Litecoin på <a href="http://litecoin.info">Litecoin Wiki</a>. <br> Oppdatert nettverksstatistikk finner du på <a href="https://bitinfocharts.com/litecoin">Litecoin Blokkutforsker Diagrammer</a>. <br> Kildekode for Litecoin Core og relaterte prosjekter er tilgjenglige på <a href="https://github.com/litecoin-project">GitHub</a>.'
 
       [[Languages.no.about.row.list]]
         icon = "fa-heart"

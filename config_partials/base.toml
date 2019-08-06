@@ -27,7 +27,7 @@ description = "Litecoin is a cryptocurrency that enables instant payments to any
 
   [params.downloadCommon]
     releaseNotesURL = "https://blog.litecoin.org/litecoin-core-v0-15-1-45ee1c5003cb"
-    upgradeNotesURL = "https://litecoin.info/Upgrading_Litecoin"
+    upgradeNotesURL = "https://litecoin.info/index.php/Upgrading_Litecoin"
 
   [params.footerCommon]
     [[params.footerCommon.social]]
