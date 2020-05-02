@@ -80,7 +80,7 @@
     windows = "dành cho Windows"
     mac = "dành cho Mac OS X"
     linux = "dành cho Linux"
-    android = "Litecoin cho Android"
+    android = "Litewallet cho Android"
     electrum = "Electrum Litecoin"
 
   # Contact section

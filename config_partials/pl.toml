@@ -80,7 +80,7 @@
     windows = "dla systemu Windows"
     mac = "dla systemu Mac OS X"
     linux = "dla systemu Linux"
-    android = "Litecoin dla Android"
+    android = "Litewallet dla Android"
     electrum = "Electrum Litecoin"
 
   # Contact section
