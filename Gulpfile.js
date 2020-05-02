@@ -24,6 +24,6 @@ gulp.task('config', function() {
 
 gulp.task('sass:watch', function () {
   gulp.watch(['./themes/hugo-litecoin-theme/static/sass/*.sass',
-              './themes/hugo-litecoin-theme/static/sass/*.scss'], ['sass']);
-  gulp.watch('./config_partials/*.toml', ['config']);
+              './themes/hugo-litecoin-theme/static/sass/*.scss'], gulp.series('sass'));
+  gulp.watch('./config_partials/*.toml', gulp.series('config'));
 });
