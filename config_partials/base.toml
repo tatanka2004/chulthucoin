@@ -43,6 +43,7 @@ description = "Litecoin is a cryptocurrency that enables instant payments to any
       link = "https://www.reddit.com/r/litecoin/"
 
 
-
+[markup.goldmark.renderer]
+unsafe = true
 
 [Languages]
